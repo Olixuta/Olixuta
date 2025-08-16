@@ -1,11 +1,14 @@
 Bonjour, 
-Actuellement en MPI* au lycée Joffre à Montpellier. 
+Actuellement au Magistère de Mathématiques d'Orsay. 
 Je suis passioné de mathématiques et d'informatique théorique et c'est ici que mes projets vont naitre. 
 
-Vous pouvez me contacter sur :
+Vous pouvez me contacter par :
 ->Discord: Olixuta 
-->Mail: dorianpadovan@gmail.com
+->Mail: dorianpadovan@protonmail.com
 
+études supérieurs : 
+->Lycée Joffre CPGE MP2I et MPI*
+->Magistère de Mathématiques d'Orsay
 
 Palmares: 
 rien pour le moment :) 
