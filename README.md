@@ -11,7 +11,9 @@ Vous pouvez me contacter par :
 ->Magistère de Mathématiques d'Orsay
 
 Palmares: 
-rien pour le moment :) 
+
+Participation à des concours : 
+->Concours généraux de mathématiques et de NSI édition 2023, olympiades de mathématiques édition 2022, concours X-ENS, Mines-Ponts et Centrale
 
 
 
