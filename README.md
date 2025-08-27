@@ -1,4 +1,5 @@
 Bonjour, 
+
 Actuellement au Magistère de Mathématiques d'Orsay. 
 Je suis passioné de mathématiques et d'informatique théorique et c'est ici que mes projets vont naitre. 
 
